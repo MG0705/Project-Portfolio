@@ -20,3 +20,9 @@ This quantum photonics project compiled Gaussian boson sampling circuits onto a 
 
 **LINK:** https://github.com/MG0705/Project-3--Gaussian-Boson-Sampling
 
+----
+ **PROJECT 4: Precision Limits of Nonvolatile Photonic Matrix Multipliers**
+
+This photonics project models a photonic matrix multiplier programmed with phase-change elements. It separates the precision lost to programming (limited levels, noisy writes, write-verify) from the precision lost to fabrication error in the couplers, independent or spatially correlated. In an 8x8 multiplier, 0.02 rad of coupler error caps precision at about 4.4 effective bits, so write-verify stops paying off at about 4 pulses per element.
+
+**LINK:** https://github.com/MG0705/Project-4--Nonvolatile-Photonic-Precision
