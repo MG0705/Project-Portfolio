@@ -30,6 +30,6 @@ This photonics project models a photonic matrix multiplier programmed with phase
 ----
  **PROJECT 5: Self-Configuring Photonic Meshes under Correlated Fabrication Error**
  
-A simulation of Miller's self-configuring line, set element by element from local detector feedback, with MZI and double-MZI elements. A layout choice that makes no difference for independent errors decides the outcome once errors are correlated, where, on the same correlated errors, the staircase layout loses 20-220x more light than a bus layout and double MZIs remove the loss up to 0.15 rad.
+This project is a simulation of Miller's self-configuring line, set element by element from local detector feedback, with MZI and double-MZI elements. A layout choice that makes no difference for independent errors decides the outcome once errors are correlated, where, on the same correlated errors, the staircase layout loses 20-220x more light than a bus layout and double MZIs remove the loss up to 0.15 rad.
 
 **LINK:** https://github.com/MG0705/Project-5--Self-Configuring-Meshes
