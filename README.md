@@ -33,3 +33,10 @@ This photonics project models a photonic matrix multiplier programmed with phase
 This project is a simulation of Miller's self-configuring line, set element by element from local detector feedback, with MZI and double-MZI elements. A layout choice that makes no difference for independent errors decides the outcome once errors are correlated, where, on the same correlated errors, the staircase layout loses 20-220x more light than a bus layout and double MZIs remove the loss up to 0.15 rad.
 
 **LINK:** https://github.com/MG0705/Project-5--Self-Configuring-Meshes
+
+----
+**PROJECT 6: Correcting Correlated Fabrication Error from Sparse Monitors**
+
+This project implements a differentiable JAX model of a Clements mesh that re-optimises its phases for the fabricated couplers, either known exactly or estimated from noisy monitors on a quarter of the couplers. Once errors are correlated over 4 or more pitches, the monitors remove 96-99.6% of the error, against 24% for independent errors.
+
+**LINK:** https://github.com/MG0705/Project-6--Correlated-Error-Correction
